@@ -1,3 +1,3 @@
-module MODULE_NAME
+module github.com/CrownTheEnd/pokedex
 
-go 1.23.1
+go 1.23.0
